@@ -1,4 +1,4 @@
-# Cellblock Ascension
+# Breakpoint
 
 A competitive social-strategy prison progression game built on Roblox with a Rust-powered backend. Players begin in the lowest security prison and attempt to escape into progressively harder facilities, emphasizing strategy, alliances, betrayal, and reputation-driven progression.
 
