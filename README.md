@@ -4,7 +4,7 @@ A competitive social-strategy prison progression game built on Roblox with a Rus
 
 ## Overview
 
-**Cellblock Ascension** is a multiplayer strategy game where:
+**Breakpoint** is a multiplayer strategy game where:
 - Players start in Tier 1 prisons and work toward higher-tier escapes
 - Gameplay focuses on forming alliances, strategic planning, and navigating betrayal mechanics
 - A persistent reputation system tracks player behavior across seasons
