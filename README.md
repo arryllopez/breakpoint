@@ -2,8 +2,7 @@
 
 A competitive social-strategy prison progression game built on Roblox with a Rust-powered backend. Players begin in the lowest security prison and attempt to escape into progressively harder facilities, emphasizing strategy, alliances, betrayal, and reputation-driven progression.
 
-Inpsired by 
-<img width="851" height="479" alt="image" src="https://github.com/user-attachments/assets/5b026dfd-c511-40bc-8582-edae27856d3b" />
+![Inspiration](https://github.com/user-attachments/assets/5b026dfd-c511-40bc-8582-edae27856d3b)
 
 
 ## Overview
